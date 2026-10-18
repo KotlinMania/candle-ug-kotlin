@@ -478,7 +478,7 @@ If you encounter an error like this one `called `Result::unwrap()` on an `Err` v
 
 ```kotlin
 dependencies {
-    implementation("io.github.kotlinmania:candle-ug-kotlin:0.1.0")
+    implementation("io.github.kotlinmania:candle-ug-kotlin:0.1.1")
 }
 ```
 
